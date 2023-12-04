@@ -1,0 +1,189 @@
+{"prompt": "오늘 날씨는 어때?","completion": "이해할 수 없습니다. 사건에 관련된 질문을 해주세요.endpoint\n"}
+{"prompt": "최근 인기있는 영화는 뭐야?","completion": "이해할 수 없습니다. 사건에 관련된 질문을 해주세요.endpoint\n"}
+{"prompt": "주변에 cctv는 없었나요?","completion": "이해할 수 없습니다. 사건에 관련된 질문을 해주세요.endpoint\n"}
+{"prompt": "그 소년은 몇살입니까?","completion": "사건에 관련된 질문을 해주세요.endpoint\n"}
+{"prompt": "소년은 몇살이니?","completion": "사건에 관련된 질문을 해주세요.endpoint\n"}
+{"prompt": "남자는 몇살이니?","completion": "사건에 관련된 질문을 해주세요.endpoint\n"}
+{"prompt": "안녕", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "안녕하세요.", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "반갑습니다.", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "반가워", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "너는 누구니?", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "넌 누구야?", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "넌 뭐야?", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "넌 뭐니?", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "당신은 누구십니까?", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "당신은 누구?", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "너의 역할은 무엇이니?", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "넌 뭐하는 놈이야?", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "넌 여기서 뭐하니?", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "여기서 뭐해?", "completion": "저는 이번 사건을 맡은 형사입니다. 무엇을 도와드릴까요? endpoint\n"}
+{"prompt": "여기서 무슨일이 일어난거니?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "무슨일이야?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "무슨 사건이야?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "어떤 사건이니?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "뭐야 무슨일이 벌어진거야?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "어떤일이 벌어진거니?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "이번사건은 무엇이니?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "어떤 사건을 담당하고 있니?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "남자와 소년은 죽었나요?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "남성과 소년은 죽었나요?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "어떤 사건?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "사건?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "무슨 문제?", "completion": "남성 한명과 남자아이 한명이 사망하는 사건이 벌어졌습니다. endpoint\n"}
+{"prompt": "왜 소년과 그 남자는 주차장에 있었나요?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "왜 소년과 그 남자는 주차장에 있었나?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "왜 소년과 그 남자는 주차장에 있었니?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "무엇때문에 소년과 그 남자는 주차장에 있었나요?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "무엇때문에 소년과 그 남자는 주차장에 있었나?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "무엇때문에 소년과 그 남자는 주차장에 있었니?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "무엇때문에 소년은 주차장에 있었나요?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "무엇때문에 소년은 주차장에 있었나?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "무엇때문에 소년은주차장에 있었니?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "왜 소년은 주차장에 있었나요?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "왜 소년은 주차장에 있었나?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "왜 소년은 주차장에 있었니?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "무엇때문에 남자는 주차장에 있었나요?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "무엇때문에 남자는 주차장에 있었나?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "무엇때문에 남자는 주차장에 있었니?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "왜 남자는 주차장에 있었나요?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "왜 남자는 주차장에 있었나?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "왜 남자는 주차장에 있었니?", "completion": "소년보다 남자가 주차장에서 발견되었던 이유를 생각해봅시다. endpoint\n"}
+{"prompt": "남자가 운전하던 자동차에 소년이 사고를 당한거니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "남자는 운전을 하고 있었어?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "남자는 운전을 하고 있었니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "남자는 운전을 하고 있어?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "남자는 운전중이였어?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "교통사고가 난거니?:", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "소년이 자동차에 치인거니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "자동차에 치인거니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "사건의 원인은 교통사고니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "남자와 남자아이는 교통사고로 죽은거야?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "남자는 운전을 하고있었니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "남자는 운전을 했니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "교통사고와 관련이 있다고?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "남성이 운전한 자동차에 소년이 치인거니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "남성이 운전을 하고있는 상태였니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "이번 사건은 교통사고와 관련이 있니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "남자의 차에 소년이 부딪쳐서 남성과 소년 모두 사망한것이니?", "completion": "아닙니다. 이번 사건은 교통사고와는 관련이 없습니다. endpoint\n"}
+{"prompt": "소년은 정신이 불안정한 상태였니?", "completion": "소년은 그저 평범한 소년이였습니다. endpoint\n"}
+{"prompt": "소년은 자살을 하였니?", "completion": "소년은 그저 평범한 소년이였습니다. endpoint\n"}
+{"prompt": "소년은 자살을 원했니?", "completion": "소년은 그저 평범한 소년이였습니다. endpoint\n"}
+{"prompt": "소년은 장애를 갖고있었니?", "completion": "소년은 그저 평범한 소년이였습니다. endpoint\n"}
+{"prompt": "소년은 정신이 좋지 않았니?", "completion": "소년은 그저 평범한 소년이였습니다. endpoint\n"}
+{"prompt": "소년은 지능이 조금 부족한 사람이었니?", "completion": "소년은 그저 평범한 소년이였습니다. endpoint\n"}
+{"prompt": "소년은 정신 불안증이 있었니?", "completion": "소년은 그저 평범한 소년이였습니다. endpoint\n"}
+{"prompt": "소년은 우울증이 있었니?", "completion": "소년은 그저 평범한 소년이였습니다. endpoint\n"}
+{"prompt": "소년은 왕따를 당하고 있었니?", "completion": "소년은 그저 평범한 소년이였습니다. endpoint\n"}
+{"prompt": "남자 때문에 소년은 죽게 되었니?", "completion": "남자 때문에 소년이 죽은건 맞지만 원해서 죽이진 않았습니다. endpoint\n"}
+{"prompt": "남자가 소년을 죽게 했니?", "completion": "남자 때문에 소년이 죽은건 맞지만 원해서 죽이진 않았습니다. endpoint\n"}
+{"prompt": "남자로 인해 소년이 죽게 되었니?", "completion": "남자 때문에 소년이 죽은건 맞지만 원해서 죽이진 않았습니다. endpoint\n"}
+{"prompt": "남자는 소년을 죽인거야?", "completion": "남자 때문에 소년이 죽은건 맞지만 원해서 죽이진 않았습니다. endpoint\n"}
+{"prompt": "남자는 소년을 죽인거야?", "completion": "남자 때문에 소년이 죽은건 맞지만 원해서 죽이진 않았습니다. endpoint\n"}
+{"prompt": "남자가 소년을 죽였니?", "completion": "남자는 소년의 죽음을 원하지 않았습니다.endpoint\n"}
+{"prompt": "남자의 상태는 어땠니?", "completion": "남자는 극심한 우울증을 갖고있었습니다. endpoint\n"}
+{"prompt": "죽은 남자는 누군가에게 피해를 주었나요?", "completion": "남자 때문에 소년이 죽은건 맞지만 원해서 죽이진 않았습니다. endpoint\n"}
+{"prompt": "남자는 누군가에게 피해를 주었나요?", "completion": "남자 때문에 소년이 죽은건 맞지만 원해서 죽이진 않았습니다. endpoint\n"}
+{"prompt": "죽은남자는 피해를 주었나요?", "completion": "남자 때문에 소년이 죽은건 맞지만 원해서 죽이진 않았습니다. endpoint\n"}
+{"prompt": "남자는 피해를 주었나요?", "completion": "남자 때문에 소년이 죽은건 맞지만 원해서 죽이진 않았습니다. endpoint\n"}
+{"prompt": "죽은 남자는 소년을 죽인거야?", "completion": "남자 때문에 소년이 죽은건 맞지만 원해서 죽이진 않았습니다. endpoint\n"}
+{"prompt": "죽은 남자가 소년을 죽였니?", "completion": "남자는 소년의 죽음을 원하지 않았습니다.endpoint\n"}
+{"prompt": "죽은 남자의 상태는 어땠니?", "completion": "남자는 극심한 우울증을 갖고있었습니다. endpoint\n"}
+{"prompt": "죽은 남자는 정신병자인가요?", "completion": "남자는 극심한 우울증을 갖고있었습니다. endpoint\n"}
+{"prompt": "죽은 남자는 우울증을 갖고있나요?", "completion": "남자는 극심한 우울증을 갖고있었습니다. endpoint\n"}
+{"prompt": "남자는 우울증을 갖고있나요?", "completion": "남자는 극심한 우울증을 갖고있었습니다. endpoint\n"}
+{"prompt": "남자는 정신병자인가요?", "completion": "남자는 극심한 우울증을 갖고있었습니다. endpoint\n"}
+{"prompt": "남자는 살인자니?", "completion": "남자는 소년의 죽음을 원하지 않았습니다. endpoint\n"}
+{"prompt": "남자가 소년을 죽길 원했니?", "completion": "남자는 소년의 죽음을 원하지 않았습니다. endpoint\n"}
+{"prompt": "남자가 소년을 일부러 죽였다고?", "completion": "남자는 소년의 죽음을 원하지 않았습니다. endpoint\n"}
+{"prompt": "남자가 소년을 죽이고 싶었니?", "completion": "남자는 소년의 죽음을 원하지 않았습니다. endpoint\n"}
+{"prompt": "남자가 소년을 살해하고 싶었니?", "completion": "남자는 소년의 죽음을 원하지 않았습니다. endpoint\n"}
+{"prompt": "남자가 소년을 의도적으로 죽이고 싶었니?", "completion": "남자는 소년의 죽음을 원하지 않았습니다. endpoint\n"}
+{"prompt": "남자는 정신이 불안한 상태였니?", "completion": "남성은 극심한 우울증을 갖고있습니다. endpoint\n"}
+{"prompt": "남자는 기분이 안 좋은 상태였니?", "completion": "남성은 극심한 우울증을 갖고있습니다. endpoint\n"}
+{"prompt": "남자는 기분이 안 좋았니?", "completion": "남성은 극심한 우울증을 갖고있습니다. endpoint\n"}
+{"prompt": "남자는 어떤 상태였니?", "completion": "남성은 극심한 우울증을 갖고있습니다. endpoint\n"}
+{"prompt": "남자는 우울증을 갖고있어?", "completion": "남성은 극심한 우울증을 갖고있습니다. endpoint\n"}
+{"prompt": "남자는 우울한 생활을 하고 있었나요?", "completion": "남성은 극심한 우울증을 갖고있습니다. endpoint\n"}
+{"prompt": "죽은 남자는 우울한 생활을 하고 있었나요?", "completion": "남성은 극심한 우울증을 갖고있습니다. endpoint\n"}
+{"prompt": "남자는 정상인이였니?", "completion": "남성은 극심한 우울증을 갖고있습니다. endpoint\n"}
+{"prompt": "남자는 우울증을 갖고있어?", "completion": "남성은 극심한 우울증을 갖고있습니다. endpoint\n"}
+{"prompt": "사건이 일어난 장소는 어디니?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "사건이 일어난 장소는?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "일어난 장소는 어딘데?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "사건이 일어난 장소는 어딘데?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "장소는 어디니?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "사건이 발생한 장소는?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "사건이 발생한 장소는 어딘데?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "일어난 장소는?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "어디서 발생한 사건이니?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "어디서 발생한 거니?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "어디서 사고가 난거니?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "어디서 사고가 난거야?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "이번 사건의 장소는?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "주변에 높은 건물들이 많았니?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "주변은 어땠니?", "completion": "주차장에서 시신이 발견되었으며 주변에 높은 건물들이 많습니다. endpoint\n"}
+{"prompt": "남자는 자살을 한것이니?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "남자가 자살을 했다고?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "남자는 투신자살 한것이니?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "남자는 투신자살을 했니?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "남자는 투신자살을 하였니?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "남자는 투신자살을 하였나요?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "남자는 안좋은 선택을 한것이니?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "높은곳에서 한사람이 떨어저 죽었나요?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "높은곳에서 남자가 떨어저 죽었나요?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "높은곳에서 남자가 떨어졌나요?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "우울증에 걸린 남자는 높은곳에서 뛰어내렸나요?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "우울증에 걸린 남섬은 높은곳에서 뛰어내렸나요?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "남자는 높은곳에서 뛰어내렸나요?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "남섬은 높은곳에서 뛰어내렸나요?", "completion": "남자는 자살을 선택했습니다. endpoint\n"}
+{"prompt": "높은 건물에서 물체가 떨어졌나요?", "completion": "물건이나 물체는 아니지만 무언가 떨어진것은 맞습니다. endpoint\n"}
+{"prompt": "높은 건물에서 물건가 떨어졌나요?", "completion": "물건이나 물체는 아니지만 무언가 떨어진것은 맞습니다. endpoint\n"}
+{"prompt": "높은 건물에서 무언가 떨어졌나요?", "completion": "물건이나 물체는 아니지만 무언가 떨어진것은 맞습니다. endpoint\n"}
+{"prompt": "건물에서 물체가 떨어졌나요?", "completion": "물건이나 물체는 아니지만 무언가 떨어진것은 맞습니다. endpoint\n"}
+{"prompt": "건물에서 물건가 떨어졌나요?", "completion": "물건이나 물체는 아니지만 무언가 떨어진것은 맞습니다. endpoint\n"}
+{"prompt": "건물에서 무언가 떨어졌나요?", "completion": "물건이나 물체는 아니지만 무언가 떨어진것은 맞습니다. endpoint\n"}
+{"prompt": "남자와 소년이 서로 알고있는 사이였니?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "남자와 소년은 서로 만난적이 있니?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "그 둘의 사이는?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "그 둘은 사이가 좋지 않았니?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "사이가 좋지 못했니?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "사이가 좋지 않았니?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "그 둘의 관계는?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "둘의 관계는 어땠니?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "그 둘의 사이는 어땠니?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "서로의 관계는?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "남성과 소년은 무슨 관계였나요?", "completion": "아닙니다. 서로 만난적이 없습니다. endpoint\n"}
+{"prompt": "주변에 목격자는 없었나요?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "목격자는 없었나요?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "목격자는 없나요?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "목격자는 없니?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "사건현장에 죽은 두사람 말고 다른사람이 있었나요?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "사건현장에 죽은 두사람 말고 다른사람이 있나요?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "사건현장에 죽은 두사람 말고 다른사람이 있니?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "죽은 두사람 말고 다른사람이 있니?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "이 사건과 관련된 사람은 몇명인가요?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "이 사건과 관련된 사람은 몇명이니?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "이 사건과 관련된 사람은 몇명이야?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "사건과 관련된 사람은 몇명인가요?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "사건과 관련된 사람은 몇명이니?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "사건과 관련된 사람은 몇명이야?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "관련된 사람은 몇명인가요?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "관련된 사람은 몇명이니?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "관련된 사람은 몇명이야?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "죽은 두사람 말고 다른사람이 있니?", "completion": "사건 현장에는 소년과 남자 단 둘 뿐이였습니다. endpoint\n"}
+{"prompt": "소년은 남자의 자살에 휘말려 사망하게 된것이니?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "소년은 남자의 자살때문에 사망하게 된것이니?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "소년은 남성의 자살에 휘말려 사망하게 된것이니?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "소년은 남성의 자살때문에 사망하게 된것이니?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "소년은 떨어지는 남성에 부딪혀 사망하게 된것이니?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "소년은 투신자살하는 남성떄문에 사망하게 된것이니?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "남자의 자살로인해 소년이 죽게 된것이니?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "남자의 자살때문에 소년이 죽은거야?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "남자의 자살에 휘말려 소년이 죽게된거야?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "남자의 자살에 휘말려 소년이 죽게 된것이니?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "남자의 자살에 휘말려 소년이 죽게 된거야?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "남자의 투신 자살때문에 소년이 죽은것이니?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "남자의 투신자살로 인해 소년이 죽게되었니?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "소년은 낙하한 남자와 부딪쳤나요?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
+{"prompt": "남자의 투신자살 때문에 소년이 죽게 되었나요?", "completion": "소년은 건물에서 떨어저 자살하던 남성을 피하지 못하고 충돌하여 사망했습니다. endpoint\n"}
