@@ -2,6 +2,7 @@ import React, { useEffect, useRef} from 'react';
 import { useRouter } from 'expo-router';
 import { Animated, ImageBackground, Text, TouchableOpacity, StyleSheet, View } from 'react-native';
 import { playMainBackgroundMusic, stopMainBackgroundMusic,playSoundEffect } from './BackgroundMusic'; // BackgroundMusic 모듈 가져오기
+import { styles } from "./style"
 
 
 
@@ -76,19 +77,19 @@ const mainMenu = () => {
 
         <Animated.View style={[styles.button, scaleStyle1]}>
           <TouchableOpacity onPress={moveSelectStage}>
-            <Text style={styles.buttonText}>스테이지 선택</Text>
+            <Text style={styles.mainbuttonText}>스테이지 선택</Text>
           </TouchableOpacity>
         </Animated.View>
 
         <Animated.View style={[styles.button, scaleStyle2]}>
           <TouchableOpacity onPress={()=>{playSoundEffect(); router.replace('howToPlay');}}>
-            <Text style={styles.buttonText}>게임 방법</Text>
+            <Text style={styles.mainbuttonText}>게임 방법</Text>
           </TouchableOpacity>
         </Animated.View>
 
         <Animated.View style={[styles.button, scaleStyle3]}>
           <TouchableOpacity >
-            <Text style={styles.buttonText}>게임 종료</Text>
+            <Text style={styles.mainbuttonText}>게임 종료</Text>
           </TouchableOpacity>
         </Animated.View>
       </ImageBackground>
@@ -96,44 +97,6 @@ const mainMenu = () => {
   );
 };
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    width: '100%',
-    height: '100%',
-  },
-  header: {
-    fontSize: 24,
-    marginBottom: 30,
-    textAlign: 'center',
-    color: '#FFFFFF',
-  },
-  button: {
-    backgroundColor: '#000000',
-    padding: 15,
-    borderRadius: 25,
-    width: '60%',
-    marginBottom: 10,
-  },
-  buttonText: {
-    color: '#FFFFFF',
-    textAlign: 'center',
-  },
-  mainLogoStyle: {
-    height: '100%',
-    width: '100%',
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  mainLogoContainer: {
-    height: '40%',
-    width: '80%',
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginBottom: 30,
-  },
-});
+
 
 export default mainMenu;

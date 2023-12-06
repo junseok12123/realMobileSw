@@ -68,19 +68,6 @@ const gameResultScreen = () => {
   );
 };
 
-const styles = StyleSheet.create({
-  confirmButton: {
-    backgroundColor: 'black', // 배경색을 검은색으로 설정
-    paddingHorizontal: 20, // 가로 길이를 늘림
-    paddingVertical: 10, // 세로 길이 설정
-    borderRadius: 20, // 타원형 모양을 만들기 위한 둥근 테두리
-    borderColor: 'white', // 테두리 색상을 하얀색으로 설정
-    borderWidth: 1, // 테두리 두께
-    justifyContent: 'center', // 내부 텍스트 중앙 정렬
-    alignItems: 'center',
-    marginHorizontal: 20,
-  },
 
-});
 
 export default gameResultScreen;

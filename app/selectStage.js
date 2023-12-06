@@ -2,6 +2,7 @@ import React, { useState, useRef } from 'react';
 import { useRouter } from 'expo-router';
 import { View, Image, Text, Dimensions, ImageBackground, Animated, FlatList, TouchableOpacity, StyleSheet, Alert } from 'react-native';
 import { stopMainBackgroundMusic,playSoundEffect,playGameplayBackgroundMusic,playGameplaySEF } from './BackgroundMusic'; // BackgroundMusic 모듈 가져오기
+import { styles } from "./style"
 
 
 
@@ -30,7 +31,7 @@ const selectStage = () => {
             duration: 1000,
             useNativeDriver: true
         }).start(() => {
-            router.replace('/test');
+            router.replace('/gamePlayScreen');
         });
 
     };
@@ -124,22 +125,5 @@ const selectStage = () => {
     );
 };
 
-const styles = StyleSheet.create({
-
-    dialogueBackgroundStyle: {
-        width: width * 0.8, // 스테이지 사진 가로 사이즈에 맞춥니다
-        height: 200, // 설명 배경의 높이를 지정하세요
-        justifyContent: 'flex-start',
-        alignItems: 'center',
-        resizeMode: 'stretch', // 또는 'cover'를 사용하세요
-    },
-    stageDescriptionStyle: {
-        // 스테이지 설명 스타일을 지정
-        textAlign: 'center',
-        color: 'white', // 설명 텍스트 색상
-        marginTop: 10
-
-    },
-});
 
 export default selectStage; 
